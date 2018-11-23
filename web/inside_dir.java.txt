@@ -1,0 +1,1 @@
+file inside directory to stage use command "git -A or git --all". Says look files in sub directories too.
