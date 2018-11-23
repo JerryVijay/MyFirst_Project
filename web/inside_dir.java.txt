@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 file inside directory to stage use command "git -A or git --all". Says look files in sub directories too.
+=======
+file inside directory to stage use command "git -A or git --all". Says look files in sub directories too.
+Modified this file at remote repository.
+>>>>>>> feature
